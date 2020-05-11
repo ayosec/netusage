@@ -3,6 +3,9 @@ name = "netusage"
 version = "0.1.0"
 authors = ["Ayose <ayosec@gmail.com>"]
 edition = "2018"
+description = "Small tool to show network usage"
+license = "Apache 2.0"
+readme = "README.md"
 
 [dependencies]
 pico-args = "0.3.1"
